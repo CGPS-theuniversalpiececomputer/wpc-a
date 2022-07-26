@@ -50,4 +50,4 @@ This is where I expound on how world piece computers manage world pieces, and ho
 
 ## Some world piece computer characteristics:
 
-{{< figure src="images/characterWPC.png" >}}
+{{< figure src="images/characterWPCP.png" >}}

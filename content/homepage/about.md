@@ -40,15 +40,17 @@ widget:
     attachment: 
 ---
 
-## Why world piece computers?
+## Who?
 
+## Why?
 
-## How world piece computers? 
+## How?
 
+## What?
 
-## What world piece computers?
+## Where?
 
-
+## When?
 
 ## Some world piece computer characteristics:
 

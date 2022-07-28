@@ -40,13 +40,15 @@ widget:
     attachment: 
 ---
 
-## What are world piece computers?
+## Why world piece computers?
 
-This is copy where I expound on what a world piece is, and how it relates to everything else.
 
-## What do world piece computers do? 
+## How world piece computers? 
 
-This is where I expound on how world piece computers manage world pieces, and how world piece computers network to form universal peace computer, and may be world pieces inandof themselves.
+
+## What world piece computers?
+
+
 
 ## Some world piece computer characteristics:
 

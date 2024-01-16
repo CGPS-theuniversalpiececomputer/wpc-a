@@ -1,13 +1,13 @@
 main:
   - name: A WORLD PIECE
     url: 'https://apx.wp.computer'
-    weight: 3
+    weight: 1
   - name: THE UNIVERSAL PIECE
     url: 'https://apx.up.computer'
-    weight: 1
+    weight: 2
   - name: THE UNIVERSAL PIECE COMPUTER
     url: 'https://the.up.computer'
-    weight: 2
+    weight: 3
   - name: posts
     url: /posts/
     weight: 4

@@ -1,19 +1,19 @@
 ---
-title: WORLD PIECE COMPUTER
+title: A WORLD PIECE COMPUTER
 draft: false
 avatar: images/wpcblacksquare.png
-bio: This symbol represents a **world piece computer**. It is the peace symbol with a capital 'W' for world overlayed, and a capital 'C' for computer off the right. This symbol is trademarked, but not registered. 
+bio: This symbol represents **a world piece computer**. The emblem that represents a world piece computer is an extension of the symbol used for a world piece. It incorporates a 'C' to denote its computational aspect. This emblem is a visual representation of the integration of world pieces into a computational system. The 'C' appended to the world piece symbol signifies the computational processes that occur within a world piece computer, which include the optimization of piece arrangements and the facilitation of the operator's objectives. This symbol is trademarked, but not registered. 
 
 social:
   - icon: envelope
     iconPack: fas
-    url: mailto:the@wp.computer
+    url: mailto:a@wp.computer
   - icon: twitter
     iconPack: fab
-    url: https://example.com/
+    url: https://twitter.com/blairmunroakusa
   - icon: github
     iconPack: fab
-    url: https://example.com/
+    url: https://github.com/wp-computer/a
 
 weight: 1
 widget:

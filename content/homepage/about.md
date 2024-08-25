@@ -34,11 +34,7 @@ widget:
     attachment: 
 ---
 
-## Some characteristics of a world piece computer:
-
-{{< figure src="images/characterWPC.png" >}}
-
-## Term Overview:
+## Concept Overview:
 
 A world piece computer is a concept that might seem complex at first, but we can break it down into simpler terms. Imagine a world piece computer as a system that helps a person organize and optimize various elements of their life and community to achieve a harmonious and peaceful existence, specifically as a continuous process.
 
@@ -57,3 +53,7 @@ The goal is to optimize these interactions and piece configurations to create an
 When many individuals and communities create their own world piece computers and connect them, they form a network. This network is what we call the universal piece computer. It’s like a giant supercomputer made up of all these interconnected systems, working together to maintain the universal piece, peace as a continuous computational process.
 
 Overall, a world piece computer is a distributed system of technologies, constructs, and people. It is built for organizing and optimizing all significant things in a person's world. When connected with other piece computers, it becomes by definition, part of the universal piece computer, a computational peace network aimed at achieving and maintaining global peace through continuous and collaborative process efforts.
+
+## Some characteristics of a world piece computer:
+
+{{< figure src="images/characterWPC.png" >}}
